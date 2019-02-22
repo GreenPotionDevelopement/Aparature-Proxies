@@ -1,0 +1,10 @@
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\bin\Debug\Aparature Proxies.exe.config
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\bin\Debug\Aparature Proxies.exe
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\bin\Debug\Aparature Proxies.pdb
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\obj\Debug\Aparature Proxies.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\obj\Debug\Aparature_Proxies.Properties.Resources.resources
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\obj\Debug\Aparature Proxies.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\obj\Debug\Aparature Proxies.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\obj\Debug\Aparature Proxies.exe
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\obj\Debug\Aparature Proxies.pdb
+C:\Users\Elev\source\repos\Aparature Proxies\Aparature Proxies\obj\Debug\Aparature_Proxies.mainFrm.resources
